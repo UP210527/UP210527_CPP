@@ -35,3 +35,6 @@ estudiante de la **universidad politecnica de aguascalientes**
 ⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡿⠁⠀⠀⠀⠀⢰⣾⠇⡠⠀⠇⠀⠀⣿⡳⣄ ⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⠙⢆⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡤⠋⠀⠀⠀⢀⣠⣴⣿⡿⠋⠀⠀⠀⠀⠀⣿⣿⣮ ⡷⡀⠀⠀⠀
 ⠀⠀⠀⠀⠀⣠⠶⣿⣿⣿⡀⠀⠻⣷⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠈⠁⠀⣀⣤⣶⣿⣿⠿⠋⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿ ⣟⠟⡆⠀⠀
+
+![Esta es una imagen de ejemplo](https://github.com/UP210527/UP210527_CPP/blob/main/imagenes/E3jQD7IWQAQM-6r.jpeg)
+
