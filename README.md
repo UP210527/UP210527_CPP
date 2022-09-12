@@ -10,3 +10,5 @@ _Hello, I would like to introduce myself. I am Oscar, currently a student at the
 
 📂&nbsp;U4 : ARCHIVOS Y ARREGLOS 
 
+##*A SONG TO KILL TIME*
+🍑 https://www.youtube.com/watch?v=P982oehprfY
