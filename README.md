@@ -6,7 +6,7 @@ _Hello, I would like to introduce myself. I am Oscar, currently a student at the
 ## *UNITS AND CONTENTS*
 
 📂&nbsp;U1 : INTRODUCCION A LA PROGRAMACION
->>>>>>> 28bd12e735dc3806e430be8c604fd6015ebfbd70
+
 
 📂&nbsp;U2 : ESTRUCTURAS Y CICLOS DE CONTROL
 
@@ -18,4 +18,3 @@ _Hello, I would like to introduce myself. I am Oscar, currently a student at the
 
 ## *A SONG TO KILL TIME*
 🍑 https://www.youtube.com/watch?v=P982oehprfY
->>>>>>> 28bd12e735dc3806e430be8c604fd6015ebfbd70
