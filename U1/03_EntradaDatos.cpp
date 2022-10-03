@@ -1,18 +1,18 @@
 /* Unidad 1. Entrada de datos
    Autor: Oscar Alejandro Hernandez Gomez 
    Fecha: 21/09/2022
-   Descripción: Muestra la forma de ingresar tipos de datos por el usuario
+   Descripción: Shows how to enter data types by the user
 */
 
-//Libreria para manejo de entradas y salida de pantalla
+//Library for managing screen inputs and outputs
 #include <iostream>
-//Libreria para el uso de printf y scanf
+//Library for the use of printf and scanf
 #include <stdio.h>
 
 //Uso del namespace para evitar el std::
 using namespace std;
 
-//Función principal de tipo entero
+//integer main function
 int main()
 {
     int entero;
@@ -20,18 +20,18 @@ int main()
     double grande;
     char caracter;
 
-cout << "Este programa muestra el ingreso de datos por el usuario. \n";
-    cout << "Ingresa un dato de tipo entero: ";
+cout << "This program shows the input of data by the user. \n";
+    cout << "Enter an integer data type: ";
     cin >> entero;
-    cout << "El dato ingresado es: " << entero << endl;
+    cout << "The entered data is: " << entero << endl;
 
     cout << "=================" << endl;
 
-    printf("Usando la función printf y scanf\n");
-    printf("Ingresa un dato de tipo entero: ");
+    printf("Using the printf and scanf function\n");
+    printf("Enter an integer data type: ");
     scanf("%d", &entero);
-    printf("El dato ingresado es: %i \n", entero);
+    printf("The data entered is:  %i \n", entero);
 
-    //Al ser una función debe retornar un valor, en este caso 0
+    //Being a function it must return a value, in this case 0
     return 0;
 }

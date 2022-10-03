@@ -2,7 +2,7 @@
 Date: 18/09/22
 Author: Oscar Alejandro Hernandez Gomez 
 Email: up210527@alumnos.upa.edu.mx 
-Description: Programa de tipo de datos 
+Description: data types program
 */
 
 #include <iostream>
@@ -14,26 +14,26 @@ int main (){
     double grande = 2.546546545464845;
     char caracter = 64; 
 
-    cout<<"este programa muestra los tipos de datos";
+    cout<<"this program displays the data types";
 
-    cout<<"el numero entero es: " <<entero <<"\n";
-    cout<<"el tamaño del enetero es: " <<sizeof(entero) <<"byte \n";
+    cout<<"the whole number is: " <<entero <<"\n";
+    cout<<"the size of the integer is: " <<sizeof(entero) <<"byte \n";
 
-    cout<<"el numero flotante es: " <<flotante <<"\n";
-    cout<<"el tamaño del flotantene es: " <<sizeof(flotante) <<"byte \n";
+    cout<<"the floating number is: " <<flotante <<"\n";
+    cout<<"the float size is: " <<sizeof(flotante) <<"byte \n";
 
-    cout<<"el numer double es: " <<grande <<"\n";
-    cout<<"el tamaño del double es: "<<sizeof(grande) <<"byte\n";
+    cout<<"the number double is: " <<grande <<"\n";
+    cout<<"the double size is: "<<sizeof(grande) <<"byte\n";
 
     cout<<"el cracter char es: " <<caracter <<"\n";
-    cout<<"el tamaño del char es: " <<sizeof(caracter) <<"byte\n";
+    cout<<"the char size is: " <<sizeof(caracter) <<"byte\n";
 
     cout<<"---------------------------------------\n";
     
     printf("usando la funcion printf\n");
 
-    printf("el numero entero es: %i \n", entero);
-    printf("el numero flotante es: %3.1f \n", flotante);
+    printf("the whole number is: %i \n", entero);
+    printf("the floating number is: %3.1f \n", flotante);
     return 0;
 
 }
