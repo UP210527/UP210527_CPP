@@ -1,7 +1,7 @@
 /*
 date: 26/09/22
 author:  Oscar Alejandro Hernandez Gomez 
-email:Up210427
+email:Up210527@alumnos.upa.edu.mx
 description: programa que otorga un bono de acuerdo a su calificacion final
 */
 
