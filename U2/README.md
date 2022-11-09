@@ -11,7 +11,7 @@
 4. multiply the rent by the tax according to your annual income
 5. print the tax increased to your established income
 
-image.png
+[](./Imagenes/renta.png)
 
 # *Ejercicio 2: "beneficios"*
 ## *explicacion:*
@@ -22,7 +22,7 @@ image.png
 3.2 If your score is equal to 0.4, print your score as Acceptable.
 4. Print the amount of money.
 
-image.png
+[](./Imagenes/beneficios.png)
 
 # *Ejercicio 3: "sala de videojuegos" *
 ## *explicacion:*
@@ -33,7 +33,7 @@ image.png
 5. If the user enters a value less than 0 or any character then the program will throw an erroneous data message
 6. print the cost of the ticket
 
-image.png
+[](./Imagenes/sala%20de%20videojuegos.png)
 
 # *Ejercicio 4: "pizzeria*
 ## *explicacion:*
@@ -43,9 +43,7 @@ image.png
 4. On the other hand, if the user chooses a non-vegetarian pizzeria, options of ingredients such as ham, pepperoni or salmon are thrown at him.
 5. Show your type of pizza either vegetarian or non-vegetarian with the chosen ingredients.
 
-image.png
-
-image.png
+[](./Imagenes/pizzeria.png)
 
 # *Ejercicio 5: "temperatura"*
 ## *explicacion:*
@@ -54,7 +52,7 @@ image.png
 3. If the temperature is lower than the previous one, it saves it.
 4. Prints the average, maximum and minimum 
 
-image.png
+[](./Imagenes/temperatura.png)
 
 # *Ejercicio 6: "productos"*
 ## *explicacion:*
@@ -63,7 +61,7 @@ image.png
 3. If the user enters 0 in quantity, the cycle ends.
 4. Print the total price of all products.
 
-image.png
+[](./Imagenes/productos.png)
 
 # *Ejercicio 7: "decimal a binario"*
 ## *explicacion:*
@@ -73,9 +71,7 @@ image.png
 3. If the number is less than 0.
 3.1. Print the error message.
 
-image.png
-
-image.png
+[](./Imagenes/decimal%20a%20binario.png)
 
 # *Ejercicio 8: "tablas de multiplicar"*
 ## *explicacion:*
@@ -83,7 +79,7 @@ image.png
 2. Ask the user for the limit
 3. Print the multiplication table up to the limit number entered.
 
-image.png
+[](./Imagenes/tablas%20de%20multiplicar.png)
 
 # *Ejercicio 9: "biseccion"*
 ## *explicacion:*
@@ -97,11 +93,9 @@ image.png
 4.4 When Y(c) is between 0.01 and -0.01, exit time.
 5. Print the root if there is
 
-image.png
+[](./Imagenes/biseccionpart1.png)
 
-image.png
-
-image.png
+[](./Imagenes/biseccionpart2.png)
 
 # *a song to brighten the day*:
 https://www.youtube.com/watch?v=ksoI-1X9sr4 
