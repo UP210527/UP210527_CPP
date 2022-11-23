@@ -2,11 +2,15 @@
 ![Image text](https://github.com/UP210527/UP210527_CPP/blob/main/U3/imagenes/istockphoto-1299481774-612x612.jpg)
 
 # Index
-1. Instructions for use and recommendations
-2. Flowchart
-3. Development and explanation
-4. things to take into account
-5. Conclusion
+[1. Instructions for use and recommendations](#instructions-for-use-and-recommendations)
+
+[2. Flowchart](#flowchart)
+
+[3. Development and explanation](#development-and-explanation)
+
+[4. things to take into account](#things-to-take-into-account)
+
+[5. Conclusion](#conclusion)
 
 # Instructions for use and recommendations
 ## *PLAYER VS PC:*
@@ -51,11 +55,11 @@
 
 ![Image text](https://github.com/UP210527/UP210527_CPP/blob/main/U3/imagenes/Diagramas%20de%20flujo.jpg)
 
-1. I leave you this link about my work evidence of the flowchart (https://lucid.app/lucidchart/ebb9fdd4-c8cb-40f5-b7c5-ea7dc5f1e29d/edit?view_items=~z-_Fpn3bh87&invitationId=inv_3064f422-67ce-4d92-8bbf-e447df5b55c4)
+I leave you this link about my work evidence of the flowchart (https://lucid.app/lucidchart/ebb9fdd4-c8cb-40f5-b7c5-ea7dc5f1e29d/edit?view_items=~z-_Fpn3bh87&invitationId=inv_3064f422-67ce-4d92-8bbf-e447df5b55c4)
 
 # Development and explanation
 
-1. This program was developed and created with a lot of patience and dedication since a lot of trial and error tests were carried out so that the code makes sense and does what it is told to do. In addition, thanks to trial and error, ideas were thought to improve the architecture of the game and the program and see how the texts of the additions are printed. Here you can see the development as well as the possible results.
+This program was developed and created with a lot of patience and dedication since a lot of trial and error tests were carried out so that the code makes sense and does what it is told to do. In addition, thanks to trial and error, ideas were thought to improve the architecture of the game and the program and see how the texts of the additions are printed. Here you can see the development as well as the possible results.
 
 ![Image text](https://github.com/UP210527/UP210527_CPP/blob/main/U3/imagenes/programa.png)
 
@@ -70,4 +74,4 @@
 3. In multiplayer mode player 1 is "O" and player two is "X".
 # Conclusion
 
-1. THIS PROGRAM WAS A VERY INTERESTING CHALLENGE SINCE IT IS THE FIRST TIME TO MAKE A COMMON GAME BUT AT THE MOMENT OF THINKING ABOUT IT WE CAN SAY THAT IT IS EASY BECAUSE THE GAME IS SIMPLE BUT AT THE TIME OF PROGRAMMING I TOTALLY CHANGE MY POINT SINCE THERE ARE MANY CODES BEHIND THE GAME A LITTLE COMPLICATED TO APPLY AND BESIDES I HAD TO BE DEBUGGING TO SEE THAT THE CODE STARTED CORRECTLY AND IN ADDITION TO LOOKING FOR ERRORS, BUT IN THE END IT WAS ACHIEVED AND I HOPE TO HAVE MORE OPPORTUNITIES TO DEVELOP ANOTHER INTERESTING AND CHALLENGING CODE SINCE I LIKE CHALLENGES
+THIS PROGRAM WAS A VERY INTERESTING CHALLENGE SINCE IT IS THE FIRST TIME TO MAKE A COMMON GAME BUT AT THE MOMENT OF THINKING ABOUT IT WE CAN SAY THAT IT IS EASY BECAUSE THE GAME IS SIMPLE BUT AT THE TIME OF PROGRAMMING I TOTALLY CHANGE MY POINT SINCE THERE ARE MANY CODES BEHIND THE GAME A LITTLE COMPLICATED TO APPLY AND BESIDES I HAD TO BE DEBUGGING TO SEE THAT THE CODE STARTED CORRECTLY AND IN ADDITION TO LOOKING FOR ERRORS, BUT IN THE END IT WAS ACHIEVED AND I HOPE TO HAVE MORE OPPORTUNITIES TO DEVELOP ANOTHER INTERESTING AND CHALLENGING CODE SINCE I LIKE CHALLENGES
