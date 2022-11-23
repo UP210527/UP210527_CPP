@@ -113,7 +113,7 @@ int main()
     {
         if (playerTurn % 2 == 0)
         {
-            cout << "you are great pa" << endl;
+            cout << "player 1 win" << endl;
         }
         else
         {
@@ -123,7 +123,7 @@ int main()
             }
             else
             {
-                cout << "you are great pa" << endl;
+                cout << "player 2 win" << endl;
             }
         }
     }
