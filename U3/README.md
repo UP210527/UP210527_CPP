@@ -15,8 +15,8 @@
 # Development and explanation
 
 # things to take into account
-a) Do not write numbers with decimal point or letters when asking for the move, as the program crashes
-b) In single player mode the player is "O" and the PC is "X".
-c) In multiplayer mode player 1 is "O" and player two is "X".
+1. Do not write numbers with decimal point or letters when asking for the move, as the program crashes
+2. In single player mode the player is "O" and the PC is "X".
+3. In multiplayer mode player 1 is "O" and player two is "X".
 # Conclusion
 
